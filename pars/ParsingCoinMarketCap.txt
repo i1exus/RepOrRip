@@ -174,3 +174,4 @@
 Список токенов по ссылке: https://coinmarketcap.com/view/near-protocol-ecosystem/
 
 
+STOEI
